@@ -1,0 +1,4 @@
+IL progetto richiedeva di parlare di un tema e di spiegarlo; secondo me sanremo non invecchia negli anni ma cerca di seguire il trend portando sul palco piu' giovani di quanto si pensi alle volte.
+Partendo dai dati, un po' rielaborati per l'analisi (formato campi) si sono rielaborati poco per, aggiungere, in particolar modo una tabella riportante gli anni dei cantanti all'atto dell'esibizione. Grazie a quest'ultimo dato ho potuto mostrare che l'età media è la stessa, portanto giovani e meno giovani che accontentino tutti.
+
+https://lookerstudio.google.com/s/jHaDDuvMiK8
